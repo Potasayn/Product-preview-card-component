@@ -23,7 +23,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./screenshots/Screenshot_desktop.png)
-![](./screenshots/Screenshot_moblie.png)
+![](./screenshots/Screenshot_mobile.png)
 
 ### Links
 
